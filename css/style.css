@@ -830,7 +830,7 @@ body.ie .ibg img {
 	height: 38px;
 	font-size: 0;
 	margin: -50px 0px 0px 0px;
-	background: url("../../img/about/arrow.svg") 50% 50% no-repeat, rgba(85, 85, 85, 0.7);
+	background: url("../img/about/arrow.svg") 50% 50% no-repeat, rgba(85, 85, 85, 0.7);
 	-webkit-transition-duration: 0.3s;
 	     -o-transition-duration: 0.3s;
 	        transition-duration: 0.3s;
